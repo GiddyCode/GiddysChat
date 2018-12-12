@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "518708945079",
+    "firebase_url": "https://giddyschat-6bb11.firebaseio.com",
+    "project_id": "giddyschat-6bb11",
+    "storage_bucket": "giddyschat-6bb11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518708945079:android:852fbae36839fcc9",
+        "android_client_info": {
+          "package_name": "com.giddysproject.giddyschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518708945079-iovosj75e257rcgbaibcenk1hv7mu5aq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.giddysproject.giddyschat",
+            "certificate_hash": "a91984a6ad828d511f3b1906dd6782982423bdf9"
+          }
+        },
+        {
+          "client_id": "518708945079-t84qt4o3u8q0ubdc8d9i6a5mv7gv69k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUrLn1io2PxBHWmgHOKSlQOSq26gg_OsU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518708945079-t84qt4o3u8q0ubdc8d9i6a5mv7gv69k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
